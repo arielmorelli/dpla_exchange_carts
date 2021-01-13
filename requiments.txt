@@ -1,0 +1,5 @@
+nose
+sqlalchemy
+psycopg2
+requests
+curlify
